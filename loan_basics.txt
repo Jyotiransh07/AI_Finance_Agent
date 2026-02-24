@@ -1,0 +1,3 @@
+EMI depends on principal, interest rate and tenure.
+Interest above 24% annually is risky.
+Compound interest grows faster than simple interest.

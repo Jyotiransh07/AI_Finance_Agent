@@ -1,0 +1,3 @@
+UPI allows instant bank transfers.
+To receive money you do not scan QR.
+Always verify collect request before approval.
